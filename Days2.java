@@ -1,3 +1,4 @@
+
 public class daytwo {
     public static void main(String[] args) {
         String nama = "Nurjanah";
@@ -6,9 +7,9 @@ public class daytwo {
 
         System.out.printf("nama : %s\n", nama);
 
-        System.out.print("umur : " + umur);
+        System.out.println("umur : " + umur);
 
-        System.out.println("tinggi : " + tinggi);
+        System.out.print("tinggi : " + tinggi);
 
     }
 }
