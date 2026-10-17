@@ -5,10 +5,10 @@ public class Day46 {
     public static void main(String[] args){
         Scanner p = new Scanner(System.in);
         System.out.println("""
-            1. Nasi Goreng 
-            2. Mie Goreng
-            3. Ayam Geprek
-            4. Es Teh
+            1. Nasi Goreng - Rp 10000
+            2. Mie Goreng - Rp 10000
+            3. Ayam Geprek - Rp 15000
+            4. Es Teh - Rp 5000
         """);
         System.out.print("Masukkan pilihan: ");
         int menu = p.nextInt();
@@ -35,3 +35,5 @@ public class Day46 {
 
     
 }
+
+
